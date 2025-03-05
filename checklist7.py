@@ -107,7 +107,7 @@ motivo = st.text_input("Motivo da Parada", key="motivo")
 # Lista de sistemas inspecionados
 sistemas = [
     "Base", "Cubiculo MT", "Torre", "Elevador Principal", "Escada Vertical",
-    "Linha de Vida", "Elevador Secundário", "YAW", "Transformador",
+    "Linha de Vida", "YAW", "Transformador",
     "Conversores de Potência", "Estrutura da Nacele",
     "Guincho de Serviço", "Sensores Ambientais", "Sistema de Arrefecimento",
     "Sistema de Freio", "Gerador", "Pitch",
