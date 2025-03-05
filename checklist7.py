@@ -111,7 +111,7 @@ sistemas = [
     "Conversores de Potência", "Estrutura da Nacele",
     "Guincho de Serviço", "Sensores Ambientais", "Sistema de Arrefecimento",
     "Sistema de Freio", "Gerador", "Pitch",
-    "Sistema de Lubrificação", "Pás", Outros
+    "Sistema de Lubrificação", "Pás", "Outros"
 ]
 
 # Dicionário para armazenar dados de inspeção
